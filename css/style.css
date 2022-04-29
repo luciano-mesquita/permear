@@ -1,0 +1,116 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header {
+    background-color: #7b8a7f;
+}
+
+#panel {
+    width: 230px;
+    height: 585px;
+    background-color: #C0DBC2;
+    float: left;
+    border-color: rgb(85, 85, 85);
+}
+
+#content {
+    display: grid;
+}
+
+#name {
+    text-align: left;
+    font-size: 12px;
+    color: white;
+    padding: 5px;
+}
+
+#pressure {
+    border: 2px solid;
+    border-color: rgb(129, 129, 129);
+    text-align: center;
+    font-size: 8px;
+    margin: 8px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+#umidity {
+    border: 2px solid;
+    border-color: rgb(129, 129, 129);
+    text-align: center;
+    font-size: 6px;
+    margin: 8px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+#temperature {
+    border: 2px solid;
+    border-color: rgb(129, 129, 129);
+    text-align: center;
+    font-size: 6px;
+    margin: 8px;
+    padding: 5px;
+}
+
+#value1 {
+    background-color: black;
+    color: red;
+    font-size: 45px;
+    margin: 10px;
+    padding: 5px;
+}
+
+#value2 {
+    background-color: black;
+    color: rgb(8, 211, 225);
+    font-size: 30px;
+    margin: 10px;
+    padding: 5px;
+}
+
+#value3 {
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    margin: 10px;
+    padding: 5px;
+}
+
+#value4 {
+    background-color: black;
+    color: rgb(13, 249, 8);
+    font-size: 30px;
+    margin: 10px;
+    padding: 5px;
+}
+
+#value5 {
+    background-color: black;
+    color: yellow;
+    font-size: 30px;
+    margin: 15px;
+    margin: 10px;
+    padding: 5px;
+}
+
+#graph1 {
+    background-color: rgb(204, 204, 204);
+    height: 185px;
+    margin: 10px;
+    margin-bottom: 0px;
+}
+
+#graph2 {
+    background-color: rgb(204, 204, 204);
+    height: 185px;
+    margin: 10px;
+    margin-bottom: 0px;
+}
+
+#graph3 {
+    background-color: rgb(204, 204, 204);
+    height: 185px;
+    margin: 10px;
+}
